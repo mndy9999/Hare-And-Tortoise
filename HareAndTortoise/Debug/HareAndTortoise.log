@@ -1,0 +1,13 @@
+﻿  Tortoise.cpp
+c:\users\kim jong-un\desktop\coursework\year 1\c++ programming\hareandtortoise\hareandtortoise\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Player.cpp
+c:\users\kim jong-un\desktop\coursework\year 1\c++ programming\hareandtortoise\hareandtortoise\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Main.cpp
+c:\users\kim jong-un\desktop\coursework\year 1\c++ programming\hareandtortoise\hareandtortoise\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Hare.cpp
+c:\users\kim jong-un\desktop\coursework\year 1\c++ programming\hareandtortoise\hareandtortoise\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  console.cpp
+c:\users\kim jong-un\desktop\coursework\year 1\c++ programming\hareandtortoise\hareandtortoise\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Generating Code...
+  HareAndTortoise.vcxproj -> C:\Users\Kim Jong-Un\Desktop\Coursework\Year 1\C++ Programming\HareAndTortoise\Debug\HareAndTortoise.exe
+  HareAndTortoise.vcxproj -> C:\Users\Kim Jong-Un\Desktop\Coursework\Year 1\C++ Programming\HareAndTortoise\Debug\HareAndTortoise.pdb (Partial PDB)

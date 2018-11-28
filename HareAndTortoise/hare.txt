@@ -1,0 +1,5 @@
+BigSlip		10		-12
+Sleep		20		0
+BigHop		20		9
+SmallSlip	20		-2
+SmallHop	30		1

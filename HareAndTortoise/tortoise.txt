@@ -1,0 +1,3 @@
+Slip		20		-6
+SlowPlod	30		1
+FastPlod	50		3
